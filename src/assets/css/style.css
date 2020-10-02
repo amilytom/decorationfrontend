@@ -1,0 +1,93 @@
+body {
+  background-color: #f3eff1;
+}
+.wrapper .van-nav-bar {
+  background-color: #00a0e9;
+}
+.wrapper .van-nav-bar__title {
+  color: #ffffff;
+}
+.swiperbox {
+  width: 100%;
+  margin: 0 auto;
+  background-color: #ffffff;
+  text-align: center;
+}
+.swiperbox img {
+  width: 100%;
+  vertical-align: middle;
+  margin: 0 auto;
+}
+.wrapper .van-grid {
+  margin-top: 10px;
+}
+.wrapper .good {
+  margin-top: 10px;
+  margin-bottom: 60px;
+  background-color: #ffffff;
+  clear: both;
+  overflow: hidden;
+}
+.wrapper .good h2 {
+  margin-left: 10px;
+  font-size: 16px;
+}
+.wrapper .text {
+  text-align: center;
+}
+.wrapper .van-image {
+}
+.content-box {
+  margin-bottom: 60px;
+}
+.wrapper .van-nav-bar .van-icon {
+  color: #ffffff;
+  cursor: pointer;
+}
+.caseinfo {
+  background-color: #ffffff;
+  width: 100%;
+  margin: 0 auto;
+  clear: both;
+}
+.caseinfo .name {
+  font-size: 20px;
+  width: 90%;
+  line-height: 24px;
+  text-align: center;
+  margin: 0px auto;
+  position: relative;
+  padding: 20px 0px;
+}
+.caseinfo .desc {
+  font-size: 12px;
+  width: 90%;
+  border: 1px solid #ccc;
+  line-height: 24px;
+  margin: 5px auto;
+  position: relative;
+  padding: 5px;
+}
+.caseinfo .img {
+  width: 100%;
+  margin: 20px auto 10px;
+  text-align: center;
+}
+.caseinfo .img img {
+  width: 90%;
+  margin: 0 auto;
+}
+.caseinfo .cbox {
+  width: 96%;
+  font-size: 14px;
+  line-height: 24px;
+  text-indent: 2em;
+  margin: 0px auto;
+  padding: 10px 0px;
+}
+.content-box .company {
+  font-size: 20px;
+  text-align: center;
+  line-height: 24px;
+  margin: 15px auto;
+}
